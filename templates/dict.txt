@@ -1,0 +1,5 @@
+The label for this example is {{
+{"a": "Label A",
+ "b": "Label B"
+}[label]
+}}.

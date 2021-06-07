@@ -1,0 +1,3 @@
+{{text}}
+Is this a piece of news regarding {{"world politics"}}, {{"sports"}}, {{"business"}}, or {{"science and technology"}}? |||
+{{ ["World politics", "Sports", "Business", "Science and technology"][label] }}
